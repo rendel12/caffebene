@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+
+
+
+
+
+
+
+/*header*/
+#header{}
+
+.h_top{background:#282828; font-size:12px; height:40px; line-height:40px;}
+.h_top a{color:#fff;}
+
+.eng_btn{float:left; border-left:1px solid #231f20; border-right:1px solid #231f20;}
+.eng_btn a{display:block; padding:0 20px;}
+
+.utill{float:right;}
+.utill li{float:left; border-left:1px solid #231f20;}
+.utill li:last-child a{padding-right:0;}
+.utill li a{display:block; padding:0 20px;}
+.utill li a img{margin-left:5px;}
+
+.h_bot{padding:20px 0;}
+.h_bot h1{width:180px; float:left;}
+.h_bot h1 a{}
+.h_bot h1 img{width:100%; display:block;}
+
+.gnb{float:right; height:27px; line-height:27px;}
+.gnb li{float:left; padding-left:50px;}
+.gnb li a{color:#333;}
+
+
+
+
+
+/*footer*/
+#footer{background:#1e1e1e; position:relative;}
+
+.top_btn{background:url(../images/common/btn_go_top.png) no-repeat; width:102px; height:39px; position:absolute; top:-39px; left:50%; margin-left:-51px; font-size:14px;}
+.top_btn a{display:block; color:#646464; height:100%; padding-top:13px; padding-left:30px; box-sizing:border-box;}
+
+.f_top{background:#282828; padding:50px 0;}
+.f_top dl{float:left; margin-right:80px;}
+.f_top dl dt{color:#646464; font-family:'NanumMyeongjo'; font-weight: 900; background:url(../images/common/bar_snb.gif) no-repeat left bottom; padding-bottom:10px; margin-bottom:10px;}
+.f_top dl dd{font-size:12px; font-weight:200; line-height:22px;}
+.f_top dl dd a{color:#808080;}
+
+.f_bot{color:#494949; font-size:12px; position:relative; padding:50px 0;}
+
+.f_logo{width:180px; margin-bottom:20px;}
+.f_logo img{width:100%;}
+
+.f_info{}
+.f_info span{}
+.f_info span::after{content:""; display:inline-block; width:1px; height: 10px; background:#494949; margin:0 5px;}
+.f_info span:last-child::after{display:none;}
+.f_info span a{color:#494949;}
+
+.copy{margin-top:20px; font-family:'NanumMyeongjo'; font-weight: 900;}
+
+.f_sns{position:absolute; top:50px; right:0;}
+.f_sns li{float:left; margin-left:5px;}
+.f_sns li a{}
+.f_sns li a img{width:25px;}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+
+
+
+
+
+
+
+/*main_slider*/
+.main_slider{position:relative; height:650px; overflow:hidden;}
+
+.main_slider img{position:absolute; left:50%; margin-left:-960px;}
+
+
+
+
+
+
+/*main_con01*/
+.main_con01{background:#f5f5f5; text-align:center; padding:50px 0;}
+
+.con01_wrap{display:inline-block; text-align:left;}
+
+.con01{float:left; padding:0 80px; background:url(../images/main/bg_bar_div.gif) no-repeat left center; width:400px;}
+.con01 span{display:block;}
+
+.con01_left{background:none;}
+.con01_left h2{color:#721802; margin-bottom:30px; font-size:30px; font-family:'NanumMyeongjo'; font-weight:900;}
+.con01_left h2 span{}
+.con01_left p{font-size:14px;}
+
+.con01_right{font-size:12px; font-weight:200px; line-height:22px;}
+.con01_right span{}
+
+.more_btn{width:40px; margin-top:20px;}
+.more_btn a{}
+.more_btn a img{width:100%;}
+
+
+
+
+
+
+/*main_con02*/
+.main_con02{background:url(../images/main/visual01.jpg) no-repeat center center; color:#fff; text-align:center; padding:100px 0 50px 0; background-size:cover; 
+background-attachment:fixed;}
+
+.main_con02 h2{background:url(../images/main/tit_line_bot.png) no-repeat center bottom; padding-bottom:15px; margin-bottom:15px; font-size:30px; font-weight:normal;}
+
+.main_con02 p{font-size:12px; font-weight:200px; }
+
+.main_con02 .con02_subtit{font-size:14px; font-weight:400px; margin-bottom:15px;}
+
+.main_con02 span{display:block; line-height:22px;}
+
+.main_con02 .more_btn{display:inline-block; margin-top:80px;}
+
+
+
+
+/*main_con03*/
+.main_con03{text-align:center; padding:50px 0;}
+
+.con03_tit{}
+.con03_tit h2{color:#721802; font-family:'NanumMyeongjo'; font-weight:900px;}
+.con03_tit p{font-size:14px; margin:15px 0;}
+
+.con03_menu{}
+.con03_menu li{float:left; position:relative; margin-left:3px; margin-top:3px;}
+.con03_menu li:first-child{margin-left:0;}
+
+.con03_menu li a{color:#333;}
+.con03_menu li img{display:block;}
+
+.menu_info{position:absolute; width:100%; bottom:20px;}
+.menu_info h4{color:#7d645a; font-size:18px;}
+.menu_info p{font-size:12px;}
+
+
+
+/*main_con04*/
+.main_con04{background:url(../images/main/visual02.jpg); background-attachment:inherit; padding:100px 0;}
+.main_con04 h2{font-family:'NanumMyeongjo'; font-weight:900;}
+
+.main_con04 .more_btn{width:280px; margin-top:30px;}
+
+
+
+/*main_con05*/
+.main_con05{background:#beb4af; color:#fff; text-align:center; padding:40px 0;}
+.main_con05 span{vertical-align:middle; font-size:12px;}
+.main_con05 .con05_tit{font-size:22px; margin-right:40px;}
+
+.con05_btn{margin-left:20px;}
+.con05_btn a{}
+.con05_btn a img{width:40px;}
+
+
+
+/*main_con06*/
+.main_con06{background:url(../images/main/bg_visual.jpg) no-repeat center center; background-size:cover; padding:50px 0;}
+.main_con06 li{float:left; width:300px; text-align:center; height:130px;padding:0 20px; box-sizing:border-box;}
+.main_con06 li h4{color:#7d645a; font-size:16px; font-family:'NanumMyeongjo'; font-weight:900;}
+.main_con06 li h4 img{width:30px; vertical-align:middle;}
+.main_con06 li h4 span{vertical-align:middle;}
+.main_con06 li p{font-size:12px;}
+
+
+
+
+
